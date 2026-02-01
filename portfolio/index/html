@@ -31,6 +31,23 @@ body
     !-- The main area will contain the primary content of each webpage --
     
     main
+<main>
+    <p>
+        Welcome to my personal portfolio website. This site highlights my background,
+        skills, and projects related to information technology and web development.
+    </p>
+
+    <p>
+        I am currently studying Computer Information Technology and enjoy learning how
+        structured and well planned systems support real world solutions.
+    </p>
+
+    <p>
+        As I continue developing this site, I will be adding project examples,
+        technical skills, and contact information.
+    </p>
+</main>
+x`
     main
 
     footer
