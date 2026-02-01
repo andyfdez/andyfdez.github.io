@@ -1,0 +1,41 @@
+!DOCTYPE html
+!--
+Student Name Andy Fernandez
+File Name template.html
+Date 01302026
+--
+
+html lang=en
+head
+    titleAndy Fernandez Portfolio Templatetitle
+    meta charset=utf-8
+head
+
+body
+
+    header
+        h1Andy Fernandezh1
+        h2Building practical and reliable technology solutionsh2
+    header
+
+    nav
+        p
+            Home &nbsp;  &nbsp;
+            About &nbsp;  &nbsp;
+            Projects &nbsp;  &nbsp;
+            Resume &nbsp;  &nbsp;
+            Contact
+        p
+    nav
+
+    !-- The main area will contain the primary content of each webpage --
+    
+    main
+    main
+
+    footer
+        p&copy; 2026 Andy Fernandezp
+    footer
+
+body
+html
